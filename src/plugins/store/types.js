@@ -1,0 +1,3 @@
+export const UPDATE_HOME = 'UPDATE_HOME'
+export const UPDATE_USER = 'UPDATE_USER'
+export const UPDATE_DETAIL = 'UPDATE_DETAIL'
